@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dbcorish
+👋 Hi, I’m @dbcorish
 
-- 👀 I’m interested in game development and mobile apps!
+👀 I’m interested in game development and mobile apps!
 
-- 🌱 I’m currently learning Kotlin and Jetpack Compose
+🌱 I’m currently learning Kotlin and Jetpack Compose
 
-- 📫 You can reach me at davidcorish@outlook.ie
+📫 You can reach me at davidcorish@outlook.ie
